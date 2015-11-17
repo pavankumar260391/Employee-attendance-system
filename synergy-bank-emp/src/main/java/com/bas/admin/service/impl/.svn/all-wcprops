@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/138/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl
+END
+CategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/CategoryServiceImpl.java
+END
+LeaveTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/LeaveTypeServiceImpl.java
+END
+EmployeeTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/EmployeeTypeServiceImpl.java
+END
+DepartmentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/DepartmentServiceImpl.java
+END
+DesignationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/DesignationServiceImpl.java
+END
+LeaveReasonServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/LeaveReasonServiceImpl.java
+END
+AdminLeaveMasterInitServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/118/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/AdminLeaveMasterInitServiceImpl.java
+END
+OrgTimeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/OrgTimeServiceImpl.java
+END
+AdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/138/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/AdminServiceImpl.java
+END
+AdminBasReportServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/AdminBasReportServiceImpl.java
+END
+HolidayEntryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/service/impl/HolidayEntryServiceImpl.java
+END

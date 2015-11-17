@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider
+END
+SoapEmailMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider/SoapEmailMessage.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider/package-info.java
+END
+EMailSender.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider/EMailSender.java
+END
+EMailSenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider/EMailSenderService.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/email/soap/provider/ObjectFactory.java
+END

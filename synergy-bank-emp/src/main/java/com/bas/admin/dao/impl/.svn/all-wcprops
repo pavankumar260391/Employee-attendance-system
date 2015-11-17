@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl
+END
+AdminBasReportDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/82/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/AdminBasReportDaoImpl.java
+END
+HolidayEntryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/86/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/HolidayEntryDaoImpl.java
+END
+CategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/CategoryDaoImpl.java
+END
+BasAdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/BasAdminDaoImpl.java
+END
+LeaveTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/LeaveTypeDaoImpl.java
+END
+EmployeeTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/EmployeeTypeDaoImpl.java
+END
+DepartmentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/97/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/DepartmentDaoImpl.java
+END
+DesignationDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/DesignationDaoImpl.java
+END
+LeaveReasonDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/LeaveReasonDaoImpl.java
+END
+AdminLeaveMasterInitDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/155/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/AdminLeaveMasterInitDaoImpl.java
+END
+OrgTimeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/87/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/impl/OrgTimeDaoImpl.java
+END

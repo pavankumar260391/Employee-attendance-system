@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context
+END
+image-file-upload.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/3/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/image-file-upload.xml
+END
+soap-spring.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/soap-spring.xml
+END
+bas-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/bas-service.xml
+END
+email-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/email-service.xml
+END
+bas-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/bas-dao.xml
+END
+datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/datasource.xml
+END
+spring-jdbc-tx.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/99/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/spring-jdbc-tx.xml
+END
+bas-att-spring-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/152/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/bas-att-spring-context.xml
+END
+spring-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/152/trunk/%20bas-dev-project/bas-att-mvc/src/main/webapp/WEB-INF/context/spring-aop.xml
+END

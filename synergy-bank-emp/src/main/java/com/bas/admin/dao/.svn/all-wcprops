@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/140/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao
+END
+HolidayEntryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/79/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/HolidayEntryDao.java
+END
+TestPro.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/TestPro.java
+END
+CategoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/CategoryDao.java
+END
+BasAdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/138/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/BasAdminDao.java
+END
+EmployeeTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/EmployeeTypeDao.java
+END
+LeaveTypeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/LeaveTypeDao.java
+END
+AddressA.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/130/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/AddressA.java
+END
+AddressB.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/AddressB.java
+END
+DepartmentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/44/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/DepartmentDao.java
+END
+DesignationDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/67/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/DesignationDao.java
+END
+LeaveReasonDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/60/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/LeaveReasonDao.java
+END
+Mock.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/Mock.java
+END
+AdminLeaveMasterInitDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/118/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/AdminLeaveMasterInitDao.java
+END
+OrgTimeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/77/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/OrgTimeDao.java
+END
+AdminBasReportDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/82/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/AdminBasReportDao.java
+END

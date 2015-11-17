@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:ws="http://jax-ws.dev.java.net/spring/core"
+       xmlns:wss="http://jax-ws.dev.java.net/spring/servlet"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+        http://jax-ws.dev.java.net/spring/core http://jax-ws.dev.java.net/spring/core.xsd
+        http://jax-ws.dev.java.net/spring/servlet http://jax-ws.dev.java.net/spring/servlet.xsd"
+       default-autowire="byName">
+       
+    <!-- This will enabled autowiring for all the classes present inside the below package -->
+    <context:component-scan base-package="com.bas.faculty.soap.web.service"/>
+     <context:component-scan base-package="com.bas.soap.email.endpoint"/>
+   
+   <!-- Here we are exposing spring manage web service with below url -->
+    <wss:binding url="/attendStatusSoapWebService">
+        <wss:service>
+            <ws:service bean="#AttendStatusSoapWebService">
+            </ws:service>
+        </wss:service>
+    </wss:binding>
+    
+     <wss:binding url="/emailSender">
+        <wss:service>
+            <ws:service bean="#SoapEmailProvider">
+            </ws:service>
+        </wss:service>
+    </wss:binding>
+    
+       <!-- Here we are exposing spring manage web service with below url -->
+    <wss:binding url="/nameFormatSoap">
+        <wss:service>
+            <ws:service bean="#NameFormatSoapWebService">
+            </ws:service>
+        </wss:service>
+    </wss:binding>
+       
+</beans>       

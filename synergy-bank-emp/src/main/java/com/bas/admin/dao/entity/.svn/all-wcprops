@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/138/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity
+END
+DepartmentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/DepartmentEntity.java
+END
+OrganizationTimeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/71/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/OrganizationTimeEntity.java
+END
+DesignationEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/10/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/DesignationEntity.java
+END
+LeaveReasonEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/LeaveReasonEntity.java
+END
+HolidayEntryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/53/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/HolidayEntryEntity.java
+END
+CategoryEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/CategoryEntity.java
+END
+LeaveTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/LeaveTypeEntity.java
+END
+AdminSalaryMasterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/138/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/AdminSalaryMasterEntity.java
+END
+EmployeeTypeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/52/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/admin/dao/entity/EmployeeTypeEntity.java
+END

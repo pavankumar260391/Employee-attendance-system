@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/136/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity
+END
+ManualAttendanceEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/57/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/ManualAttendanceEntity.java
+END
+FacultyEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/101/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/FacultyEntity.java
+END
+LoginEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/3/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/LoginEntity.java
+END
+FaculityLeaveMasterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/136/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/FaculityLeaveMasterEntity.java
+END
+FacultyAttendStatusEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/3/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/FacultyAttendStatusEntity.java
+END
+FacultySalaryMasterEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/51/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/FacultySalaryMasterEntity.java
+END
+FaculityTimeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/95/trunk/%20bas-dev-project/bas-att-mvc/src/main/java/com/bas/faculty/dao/entity/FaculityTimeEntity.java
+END
